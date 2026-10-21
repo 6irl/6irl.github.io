@@ -1,0 +1,39 @@
+/* style.css */
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Comic+Neue:wght@700&display=swap');
+
+body {
+    background-color: #ff0055;
+    color: #ffffff;
+    font-family: 'Comic Neue', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: radial-gradient(#ffffff 15%, transparent 16%);
+    background-size: 20px 20px;
+}
+
+.container {
+    text-align: center;
+    background: #ffcc00;
+    color: #111111;
+    padding: 3rem;
+    border: 5px solid #111111;
+    border-radius: 15px;
+    transform: rotate(-3deg);
+}
+
+p {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+h1 {
+    font-family: 'Bangers', cursive;
+    font-size: 5rem;
+    letter-spacing: 2px;
+    margin: 0;
+    color: #ffffff;
+    text-shadow: 4px 4px 0px #111111;
+}

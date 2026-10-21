@@ -1,0 +1,30 @@
+/* style.css */
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=VT323&display=swap');
+
+body {
+    background-color: #2b1055;
+    color: #00ffff;
+    font-family: 'VT323', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+p {
+    font-size: 1.8rem;
+    margin-bottom: 0;
+}
+
+h1 {
+    font-family: 'Righteous', cursive;
+    font-size: 4rem;
+    margin: 0;
+    color: #ff00cc;
+    text-shadow: 3px 3px 0px #00ffff;
+}
