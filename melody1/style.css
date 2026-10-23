@@ -22,7 +22,7 @@ body {
 
 /* Light, spaced-out intro text */
 p {
-    font-size: 3.0rem;
+    font-size: 1.0rem;
     letter-spacing: 4px;
     text-transform: uppercase;
     color: #a0aec0;
