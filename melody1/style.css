@@ -22,7 +22,7 @@ body {
 
 /* Light, spaced-out intro text */
 p {
-    font-size: 1.2rem;
+    font-size: 3.0rem;
     letter-spacing: 4px;
     text-transform: uppercase;
     color: #a0aec0;
@@ -32,7 +32,7 @@ p {
 /* Glowing, breathing celestial symbols */
 h1 {
     font-family: 'Cinzel', serif;
-    font-size: 4.5rem;
+    font-size: 3.0rem;
     margin: 10px 0 30px 0;
     color: #ffffff;
     animation: pulseGlow 4s infinite alternate;
