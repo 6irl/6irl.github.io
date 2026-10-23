@@ -69,11 +69,13 @@ h1 {
 }
 
 .youtube-embed {
-    width: 320px;
-    height: 180px;
-    max-width: 100%;
-    display: block;
-    margin: 0 auto;
-    border: none; /* Replaces the deprecated HTML frameborder="0" */
+    width: 320px !important;
+    height: 180px !important;
+    max-width: 100% !important;
+    display: block !important;
+    margin: 0 auto !important;
+    border: none !important; /* Replaces the deprecated HTML frameborder="0" */
+    position: static !important;
+    aspect-ratio: 16 / 9 !important;
 }
 
