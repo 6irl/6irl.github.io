@@ -37,3 +37,15 @@ h1 {
     display: block;
     margin: 0 auto;     /* Centers the image on the page */
 }
+
+
+.symbol-pic {
+    width: 100px;       /* Sets the size of the image */
+    height: 100px;      /* Keeps it a square */
+    object-fit: cover;  /* Ensures the image doesn't get stretched or distorted */
+    border-radius: 50%; /* Turns the square image into a neat circle */
+    display: block;
+    margin: 0 auto;     /* Centers the image on the page */
+}
+
+
